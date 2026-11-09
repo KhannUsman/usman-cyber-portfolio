@@ -4,7 +4,7 @@ A responsive, single-page React portfolio built with Vite. The site presents Usm
 
 ## Live website
 
-**Production URL:** Add your Netlify or Vercel URL here after the first deployment.
+**Production URL:** https://usman-cyber-portfolio.vercel.app
 
 ## Profile details included
 
