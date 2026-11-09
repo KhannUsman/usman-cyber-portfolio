@@ -475,8 +475,10 @@ function App() {
           <div className="hero-copy">
             <div className="status"><span className="dot" /> System online · Learning in progress</div>
             <h1>I study how software works. <span className="grad" data-t="And how it breaks.">And how it breaks.</span></h1>
-            <p className="typer">Exploring: <span><Typed /></span><i className="caret" /></p>
-            <p className="hero-description">I'm <strong>Muhammad Usman Khan</strong>, a Computer Science student at IBA Sukkur, working in the space between software development, low-level systems and cybersecurity.</p>
+            <p className="typer">Exploring: <span><Typed /></span><i className="caret" /></p>            
+            <p className="hero-description">
+            I'm <strong>Muhammad Usman Khan</strong>, a Computer Science student at IBA Sukkur, working in the space between software development, low-level systems and cybersecurity. This portfolio is deployed from GitHub to Vercel, with production updates published automatically whenever I push to the main branch.
+            </p>
             <div className="hero-actions">
               <a className="button button--primary" href="#work">View my work <Icon name="arrowUpRight" size={17} /></a>
               <a className="button button--ghost" href="#contact">Get in touch <Icon name="arrowRight" size={16} /></a>
